@@ -1,0 +1,28 @@
+
+<ion-header>
+	<ion-navbar>
+		<button ion-button menuToggle>
+			<ion-icon name="menu"></ion-icon>
+		</button>
+	</ion-navbar>
+</ion-header>
+<ion-content   padding>
+	<ion-card class="bg-image">
+		<img src="assets/img/header.jpg">
+		</ion-card>
+
+<div class="form">
+<ion-item>
+	<ion-label floating>Email Address</ion-label>
+<ion-input type="text">email</ion-input>
+</ion-item>	
+<ion-item>
+	<ion-label floating>password</ion-label>
+<ion-input type="password">password</ion-input>
+</ion-item>	
+
+<button ion-button (click)="login()" >login</button>
+</div>
+
+
+</ion-content>
