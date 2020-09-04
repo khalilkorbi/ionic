@@ -93,7 +93,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "2.7.1",
     "cordova-android": "^8.1.0",
-    "cordova-plugin-inappbrowser": "^1.7.2",
+    "cordova-plugin-inappbrowser": "^3.1.0",
     "cors": "^2.8.3",
     "date-fns": "^1.29.0",
     "express": "^4.15.3",
