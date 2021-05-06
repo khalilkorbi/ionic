@@ -100,7 +100,7 @@
     "firebase": "4.12.1",
     "font-awesome": "4.7.0",
     "fullcalendar": "3.7.0",
-    "highcharts": "^5.0.14",
+    "highcharts": "^9.0.0",
     "intl": "^1.2.5",
     "ionic-angular": "^3.9.2",
     "ionic-img-viewer": "^2.9.0",
