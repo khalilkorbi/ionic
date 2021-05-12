@@ -91,7 +91,7 @@
     "billboard.js": "^1.2.0",
     "body-parser": "^1.17.2",
     "bootstrap": "^4.4.1",
-    "chart.js": "2.7.1",
+    "chart.js": "2.9.4",
     "cordova-android": "^8.1.0",
     "cordova-plugin-inappbrowser": "^1.7.2",
     "cors": "^2.8.3",
